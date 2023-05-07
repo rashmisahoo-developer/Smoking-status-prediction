@@ -34,3 +34,5 @@ Transaminase type
 ALT : Glutamate-oxaloacetate transaminase type 4Gγp 4 4Gγp 4 -GTP
 Tooth decay
 Smoking
+
+This Project helps to check status of smokers
